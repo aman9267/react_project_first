@@ -4,7 +4,7 @@ import { Button } from "./Button";
 function App() {
   return (
     <div className="App">
-      <h1>First Project In React</h1>
+      <h1>First Project In React Check on github work</h1>
       <Button />
     </div>
   );
